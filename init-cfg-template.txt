@@ -1,0 +1,10 @@
+type=static
+ip-address=192.168.210.111
+default-gateway=192.168.210.1
+netmask=255.255.255.0
+hostname=%name%
+panorama-server=192.168.210.38
+tplname=vm-series_stack
+dgname=vm-series_dg
+dns-primary=192.168.210.10
+vm-auth-key=971496223690564
