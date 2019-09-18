@@ -16,3 +16,6 @@ After running the script, a bootstrap directory will be created for each variabl
 # Support
 
 I'm providing this script as an example to generate multiple bootstrap files for Palo Alto Networks Firewalls.  There is no  support.  Feel free to modify the script to suite your needs.
+
+# References
+https://docs.paloaltonetworks.com/vm-series/9-0/vm-series-deployment/bootstrap-the-vm-series-firewall/bootstrap-package.html
